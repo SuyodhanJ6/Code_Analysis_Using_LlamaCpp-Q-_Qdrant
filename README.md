@@ -2,6 +2,12 @@
 
 Advanced code analysis tool using CodeLlama-13b-instruct.Q4_K_M.gguf model via LlamaCpp and Qdrant vector database.
 
+## Project Architecture
+
+Below is a flowchart representing the architecture of this RAG application:
+
+![image](https://raw.githubusercontent.com/SuyodhanJ6/Code_Analysis_Using_LlamaCpp-Q-_Qdrant/main/flowchart/Screenshot%20from%202024-09-25%2000-14-30.png)
+
 ## Setup Guide
 
 Follow these steps to set up and run the project:
